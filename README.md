@@ -1,0 +1,1 @@
+# Analisis-discriminante-regularizado-RDA
